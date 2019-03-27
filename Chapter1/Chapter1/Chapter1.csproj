@@ -46,6 +46,7 @@
     <Compile Include="Q2.cs" />
     <Compile Include="Q3.cs" />
     <Compile Include="Q4.cs" />
+    <Compile Include="Q6.cs" />
     <Compile Include="Q5.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
