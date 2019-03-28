@@ -46,6 +46,8 @@
     <Compile Include="Q2.cs" />
     <Compile Include="Q3.cs" />
     <Compile Include="Q4.cs" />
+    <Compile Include="Q8.cs" />
+    <Compile Include="Q7.cs" />
     <Compile Include="Q6.cs" />
     <Compile Include="Q5.cs" />
   </ItemGroup>

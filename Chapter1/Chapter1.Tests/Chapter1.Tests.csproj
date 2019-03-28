@@ -51,6 +51,8 @@
   <ItemGroup>
     <Compile Include="Q1Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Q8Tests.cs" />
+    <Compile Include="Q7Tests.cs" />
     <Compile Include="Q6Tests.cs" />
     <Compile Include="Q5Tests.cs" />
     <Compile Include="Q4Tests.cs" />
